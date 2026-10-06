@@ -1,0 +1,2 @@
+airportsdata>=2024.1
+pycountry>=23.12
